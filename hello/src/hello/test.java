@@ -20,7 +20,9 @@ public class test {
 }
 
 class dd extends test{
-	
+	public static void main(String[] args) {
+		System.out.println("wojiale ");
+	}
 	dd(){
 		
 		super(3,2);
